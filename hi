@@ -1,3 +1,6 @@
-<Response>
-  <Say>Hello, this is a test message.</Say>
-</Response>
+{
+  "message": "Alert: Temperature Too High",
+  "voice": "en-US-Wavenet-D",
+  "pitch": "0.5",
+  "rate": "1.0"
+}
